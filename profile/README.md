@@ -5,4 +5,7 @@ LabsDAO is a decentralized guild of Labs building Web3 products (🧪,🛠️)
 # 👨🏽‍🍳 What We Are Cooking Up
 
 # 📚 Resources
-- https://docs.labsdao.org
+- Documentation https://docs.labsdao.org
+- Twitter https://twitter.com/LabsDAO_
+- Website https://labsdao.org
+- LinkedIn https://linkedin.com/company/LabsDAO
